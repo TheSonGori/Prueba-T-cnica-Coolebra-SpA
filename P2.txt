@@ -1,0 +1,25 @@
+2) Teniendo en cuenta el modelo de la imagen 1, describa con palabras un proceso que tenga que ser ejecutado cada cierto tiempo (automatización) y que obtenga 
+información “relevante” diferente a la pedida en la pregunta 1.
+
+Teniendo en cuenta el modelo UML proporcionado, un proceso de automatizacion que podria ejecutarse para obtener informacion diferente a la pedida en la pregunta 1 es: 
+Actualizacion de Precios.
+Este proceso como su nombre lo indica, se encarga automaticamente de actualizar los precios de los productos en funcion de ciertos criterios (de acuerdo a lo que 
+se estime conveniente tener en cuenta), un ejemplo seria: actualizacion de las tarifas de mercado.
+
+Pasos a seguir para la ejecucion de este Proceso:
+1. Obtener criterios
+	- Obtener informacion de los criterios que se estimen convenientes.
+
+2. Analisis y determinacion de estrategia
+	- Se analiza la informacion obtenida y se determina una estrategia. En este paso se busca evaluar los pro y contras de hacer un cambio en el precio.
+
+3. Actualizacion de Precios
+ 	- Se aplican las actualizaciones correspondientes a la base de datos.
+
+4. Registro
+	- Se registra un historal de las actualizacion realizadas, esta debe incluir los detalles que se estimen como relevantes, como lo puede ser el precio
+	antiguo y el nuevo, el producto, entre mas.
+
+**Opcionalmente se puede agregar otro paso que se encargue de notificar a las partes interasadas la actuliazion de precios**
+
+ La frecuencia de ejecución de este proceso dependerá de la dinámica del mercado y la decision de la empresa.

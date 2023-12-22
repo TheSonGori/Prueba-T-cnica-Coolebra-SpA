@@ -19,13 +19,14 @@ Explicación de la estructura del proyecto y el propósito de cada carpeta o arc
   
 ## Explicacion de ejecucion
 Como ejecutar P1 y probar consultas SQL:
-1. Instalar Python
-2. Instalar Sqlite3 y revisar si se agrego al PATH
-2. Instalar dependencias, para esto abrir terminal y usar el siguiente comando: pip install sqlite3
-3. Ejecutar el codigo
+1. Instalar Python.
+2. Instalar Sqlite3 y revisar si se agrego al PATH.
+3. Instalar dependencias, para esto abrir terminal y usar el siguiente comando: pip install sqlite3.
+4. Descargar **CoolebraSPA.DB**.
+5. Ejecutar el codigo.
 
 Como ejecutar parte b de la pregunta 3:
-1. Descargar como .zip y extraer o bien clonar el repositorio
-2. Entrar a la carpeta /P3
-3. Entrar a la carpeta /parte-b
-4. Abrir terminal y escribir 'npm start'
+1. Descargar como .zip y extraer o bien clonar el repositorio.
+2. Entrar a la carpeta /P3.
+3. Entrar a la carpeta /parte-b.
+4. Abrir terminal y escribir 'npm start'.

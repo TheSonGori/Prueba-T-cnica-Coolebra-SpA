@@ -1,4 +1,4 @@
-## PREGUNTA 1 ##
+## CREATE DB ##
 
 import sqlite3
 

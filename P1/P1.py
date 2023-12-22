@@ -1,6 +1,7 @@
+## PREGUNTA 1 ##
+
 import sqlite3
 
-# Conectarse a la base de datos
 connection = sqlite3.connect('CoolebraSPA.db')
 cursor = connection.cursor()
 

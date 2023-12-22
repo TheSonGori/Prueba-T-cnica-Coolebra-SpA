@@ -20,6 +20,6 @@ Pasos a seguir para la ejecucion de este Proceso:
 	- Se registra un historal de las actualizacion realizadas, esta debe incluir los detalles que se estimen como relevantes, como lo puede ser el precio
 	antiguo y el nuevo, el producto, entre mas.
 
-**Opcionalmente se puede agregar otro paso que se encargue de notificar a las partes interasadas la actuliazion de precios**
+**Opcionalmente se puede agregar otro paso que se encargue de notificar a las partes interasadas en la actualizacion de precios**
 
  La frecuencia de ejecución de este proceso dependerá de la dinámica del mercado y la decision de la empresa.
